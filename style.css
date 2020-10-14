@@ -1,0 +1,56 @@
+body {
+  height: 100%;
+}
+* {
+  margin: 0;
+}
+
+
+.home {
+ background-image: url(img/shape1.png);
+ height: 700px;
+ background-repeat: no-repeat;
+ background-size: cover;
+ margin: 0px;
+ padding: 0px;
+ max-width: 100%;
+}
+.navigacija {
+  height: 100px;
+}
+/* Karuseles dydziu nustatymai */
+
+.size {
+  max-width: 100%;
+  height: 100%;
+}
+/* NAVIGACIJOS LYGIAVIMAS menu:home,services ir t.., {image} ir box visai navigacijai.
+ 
+.box {
+  display: inline-block;
+}
+.image {
+  width: 40%;
+}
+.menu {
+  width: 60%;
+}*/
+
+.smart {
+ background-image: url(img/shape2.png);
+ height: 250px;
+ background-repeat: no-repeat;
+ background-size: cover;
+ margin: 0px;
+ padding: 0px;
+ max-width: 100%;
+}
+.heading {
+  height: 100px;
+}
+.cards {
+  height: 150px;
+  background: none;
+}
+
+  
