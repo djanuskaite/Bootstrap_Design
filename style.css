@@ -4,20 +4,20 @@ body {
 * {
   margin: 0;
 }
-
+.big {
+  height: 1000px;
+  max-width: 100%;
+}
 
 .home {
  background-image: url(img/shape1.png);
- height: 700px;
  background-repeat: no-repeat;
  background-size: cover;
  margin: 0px;
  padding: 0px;
  max-width: 100%;
 }
-.navigacija {
-  height: 100px;
-}
+
 /* Karuseles dydziu nustatymai */
 
 .size {
@@ -38,19 +38,23 @@ body {
 
 .smart {
  background-image: url(img/shape2.png);
- height: 250px;
  background-repeat: no-repeat;
  background-size: cover;
  margin: 0px;
  padding: 0px;
  max-width: 100%;
 }
-.heading {
-  height: 100px;
+
+.team {
+ background-image: url(img/shape3.png);
+ background-repeat: no-repeat;
+ background-size: cover;
+ margin: 0px;
+ padding: 0px;
+ max-width: 100%;
 }
-.cards {
-  height: 150px;
-  background: none;
+.experts{
+  height: 100%;
+  background: white;
 }
 
-  
